@@ -1,0 +1,1 @@
+GMaps_API_Key = "AIzaSyBvJ_6XokZzj7MKO25meLQYXnGj2ba2mLk"
