@@ -1,6 +1,6 @@
-# project1
+# OBGYN-Analysis
 
-project proposal:
+proposal:
     Infant mortality to OB GYN data by county in Indiana
     Jeremy Stewart, Luke Ellison, Elyse Leuenberger
 
@@ -9,5 +9,3 @@ project proposal:
     Research Questions to Answer: Is there a clear link between number of OB GYN practitioners and infant mortality, and are there trends in infant causes of death that trend with lower or higher numbers of practitioners
 
     Datasets to Be Used: CSVs pulled from government website with infant causes of death and rates, and OB GYN data
-
-    Rough Breakdown of Tasks: Pending
